@@ -5,6 +5,7 @@ This repository contains files which support the learnign analytics micro-projec
 As well as this README, the repository contains the following files:
 
 micro_project_report.rmd
+
 micro_project_code.R
 
 
