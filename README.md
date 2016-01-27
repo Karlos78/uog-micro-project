@@ -8,4 +8,8 @@ micro_project_report.rmd
 
 micro_project_code.R
 
+## Useful links
 
+http://analytics.jiscinvolve.org/wp/ - the JISC learning analytics blog
+http://www2.gre.ac.uk/ - University of Greenwich homepage
+https://www.heacademy.ac.uk/research/surveys/ukes-uk-engagement-survey/ukes-final-reports - information about the UK engagement survey
